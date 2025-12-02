@@ -1,30 +1,22 @@
-# Hi, I'm 👋
+Hi, I'm Haodong Zhang (张浩东) 👋
+## About me：
+Incoming MSc in AI at CUHK |  Undergraduate of Software Engineering at Jinan University
 
-I'm a final-year Software Engineering undergraduate at **Jinan University (暨南大学)** with a strong passion for Large Language Models and their potential to solve real-world problems.
+## Aspiration
+I focus on **Applied AI** and **LLM Application Development**, with a strong interest in **NLP** and **Multimodal** technologies.
+My goal is to become an **AI Engineer** who bridges the gap between advanced models and real-world needs, using AI to build tangible products that **improve people's daily lives**.
 
-I believe in learning by doing and am constantly exploring the frontiers of AI, from foundational concepts to hands-on model implementation. My goal is to build a career in AI research and development.
+## Currently working on:
+- Edge-LMM-Accelerator: Optimizing Transformer inference on Jetson/Raspberry Pi (My Thesis).
+- Algorithms: Grinding LeetCode for robust problem-solving skills.
+- Open for Research Assistant (RA) roles & Remote Internships (Spring/Summer 2025).
 
----
+## Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/-HuggingFace-FDEE21?style=for-the-badge&logo=huggingface&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### 🎯 My Current Focus & Goals
-
-*   🔭 **I am actively seeking a Research Assistant (RA) position** for Spring/Summer 2025. I am eager to contribute to research projects in LLM-related fields, including but not limited to **Natural Language Processing (NLP)**, **Multimodality**, and **Efficient Fine-tuning**.
-*   🎓 I am currently applying for **MSc programs in Computer Science and Artificial Intelligence in Hong Kong** for the Fall 2025 intake.
-*   🌱 I am deepening my understanding of building robust and reliable systems powered by LLMs, particularly focusing on the RAG (Retrieval-Augmented Generation) pipeline.
-
----
-
-### 🛠️ My Tech Stack & Interests
-
-*   **Languages:** Python, Java, C++
-*   **AI / Machine Learning:**
-    *   **Frameworks:** PyTorch, Hugging Face (Transformers, PEFT, Datasets)
-    *   **Core Concepts:** Transformer Architecture, Attention Mechanisms, LoRA & Parameter-Efficient Fine-Tuning
-    *   **Libraries:** Scikit-learn, Pandas, NumPy
-*   **Tools & Platforms:** Git, Docker, Linux
-
----
-
-### 📫 How to Reach Me
-
-*   **Email:** `zhd1010761880@gmail.com`
+## GitHub Stats
+![Haodong's GitHub stats](https://github-readme-stats.vercel.app/api?username=holEeast979&show_icons=true&theme=tokyonight)
