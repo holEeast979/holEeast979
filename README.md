@@ -19,4 +19,4 @@ My goal is to become an **AI Engineer** who bridges the gap between advanced mod
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ## GitHub Stats
-![Haodong's GitHub stats](https://github-readme-stats.vercel.app/api?username=holEeast979&show_icons=true&theme=tokyonight)
+![Haodong's GitHub stats](https://holeeast979.github.io/)
